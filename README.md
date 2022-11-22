@@ -1,4 +1,4 @@
-#MahmoudiMotlagh_Sahar_FavouriteThing
+# MahmoudiMotlagh_Sahar_FavouriteThing
 Welcome to FavouriteThing. User can choose one of the three meals by clicking on their pictures. This action helps them to see the complete shape of the meal with it's description.
 ## Installation
 It's time to play! 
